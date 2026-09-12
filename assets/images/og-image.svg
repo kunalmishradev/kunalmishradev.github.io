@@ -1,0 +1,17 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0B0F10"/>
+  <g opacity="0.15">
+    <path d="M0 0H1200V630H0V0Z" stroke="#79C0FF" stroke-width="1"/>
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200M0 360H1200M0 420H1200M0 480H1200M0 540H1200M0 600H1200" stroke="#79C0FF" stroke-width="1"/>
+    <path d="M60 0V630M180 0V630M300 0V630M420 0V630M540 0V630M660 0V630M780 0V630M900 0V630M1020 0V630M1140 0V630" stroke="#79C0FF" stroke-width="1"/>
+  </g>
+  <rect x="90" y="90" width="1020" height="450" rx="24" fill="#11181A" stroke="#2B3A3F"/>
+  <circle cx="180" cy="174" r="56" fill="#0E4A7B"/>
+  <path d="M153 174C153 155.222 168.222 140 187 140H194C212.778 140 228 155.222 228 174V178C228 196.778 212.778 212 194 212H187C168.222 212 153 196.778 153 178V174Z" fill="#7EE787" opacity="0.9"/>
+  <path d="M165 188H215" stroke="#0B0F10" stroke-width="12" stroke-linecap="round"/>
+  <path d="M166 213H214" stroke="#0B0F10" stroke-width="12" stroke-linecap="round"/>
+  <text x="290" y="230" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">Kunal Mishra</text>
+  <text x="290" y="290" fill="#79C0FF" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="600">Senior Software Engineer</text>
+  <text x="290" y="360" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="28">Platform Engineering · Cloud · SRE · AI Systems</text>
+  <text x="290" y="430" fill="#7EE787" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="600">kunalmishradev.github.io</text>
+</svg>
