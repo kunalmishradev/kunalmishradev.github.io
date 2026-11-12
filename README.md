@@ -2,12 +2,19 @@
 
 A personal portfolio website showcasing skills, experience, and projects.
 
-## Structure
+## Project Structure
 
-- `index.html` — main portfolio page
-- `favicon.ico` — site favicon
-- `assets/css/` — all styling and responsive layout
-- `assets/js/` — site interactions and animations
-- `assets/images/` — project and profile visuals
-- `assets/icons/` — social media icons
-- `assets/resume/` — downloadable resume
+```text
+/
+├── index.html
+├── favicon.ico
+├── robots.txt
+├── sitemap.xml
+├── manifest.json
+└── assets/
+    ├── css/                        # All styling and responsive layout
+    ├── js/                         # Site interactions and animations
+    ├── images/                     # Project and profile visuals
+    ├── icons/                      # Social media icons
+    └── resume/                     # Downloadable resume
+```
