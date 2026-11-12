@@ -1,0 +1,17 @@
+{
+  "name": "Kunal Mishra | Senior Software Engineer",
+  "short_name": "Kunal Mishra",
+  "description": "Senior Software Engineer focused on cloud-native platforms, distributed systems, backend engineering, AWS, Kubernetes, and AI-powered applications.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0f10",
+  "theme_color": "#0b0f10",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}

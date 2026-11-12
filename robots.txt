@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
+Host: kunalmishradev.github.io
 Sitemap: https://kunalmishradev.github.io/sitemap.xml
